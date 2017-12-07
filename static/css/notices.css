@@ -1,0 +1,10 @@
+#addNotice {
+    float: right;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 10px 20px;
+}
+#addNotice strong{
+    margin-right: 10px;
+}

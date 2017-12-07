@@ -1,0 +1,17 @@
+/*¹«¹²µÄcss*/
+.btn {
+    border-width: 1px;
+}
+.required {
+    color: red;
+    display: none;
+ }
+.blueText {
+    color:#2b7dbc;
+}
+.error {
+    color: red;
+}
+.deleted {
+    color:#c8c8c8;
+}
